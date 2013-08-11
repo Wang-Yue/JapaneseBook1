@@ -1,0 +1,426 @@
+TJapaneseBook1
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Info.plist /Users/yue/test/JapaneseBook1/JapaneseBook1/JapaneseBook1-Info.plist
+cProcessPCH /var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch.pch JapaneseBook1/JapaneseBook1-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/AppDelegate.o /Users/yue/test/JapaneseBook1/JapaneseBook1/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Section.o /Users/yue/test/JapaneseBook1/JapaneseBook1/Section.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Book.o /Users/yue/test/JapaneseBook1/JapaneseBook1/Book.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/main.o /Users/yue/test/JapaneseBook1/JapaneseBook1/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Chapter.o /Users/yue/test/JapaneseBook1/JapaneseBook1/Chapter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook1 normal x86_64
+cGenerateDSYMFile /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app.dSYM /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook1
+cCopyStringsFile /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Resources/en.lproj/InfoPlist.strings JapaneseBook1/en.lproj/InfoPlist.strings
+cCpResource JapaneseBook1/Book.bundle build/Release/JapaneseBook1.app/Contents/Resources/Book.bundle
+cCpResource JapaneseBook1/en.lproj/Credits.rtf build/Release/JapaneseBook1.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/yue/test/JapaneseBook1/JapaneseBook1/Base.lproj/MainMenu.xib
+cTouch /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000051D54DB600000000000000AA
+t1372933558
+s170
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000051D84F28000000000000044C
+t1373130536
+s1100
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000051D84F2800000000000001DC
+t1373130536
+s476
+
+N/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000051D84F33000000000000253C
+t1373130547
+s9532
+
+N/Users/yue/test/JapaneseBook1/JapaneseBook1/AppDelegate.m
+c000000005207E9920000000000000E6A
+t1376250258
+s3690
+
+N/Users/yue/test/JapaneseBook1/JapaneseBook1/Base.lproj/MainMenu.xib
+c000000005207E993000000000000C6A0
+t1376250259
+s50848
+
+N/Users/yue/test/JapaneseBook1/JapaneseBook1/Book.bundle
+c000000005206ECA30000000000000352
+t1376185507
+s850
+
+N/Users/yue/test/JapaneseBook1/JapaneseBook1/Book.m
+c00000000520728320000000000000766
+t1376200754
+s1894
+
+N/Users/yue/test/JapaneseBook1/JapaneseBook1/Chapter.m
+c000000005207386E0000000000000674
+t1376204910
+s1652
+
+N/Users/yue/test/JapaneseBook1/JapaneseBook1/JapaneseBook1-Info.plist
+c000000005206D8360000000000000443
+t1376180278
+s1091
+
+N/Users/yue/test/JapaneseBook1/JapaneseBook1/JapaneseBook1-Prefix.pch
+c000000005206D83600000000000000AC
+t1376180278
+s172
+
+N/Users/yue/test/JapaneseBook1/JapaneseBook1/Section.m
+c0000000052071D9C000000000000042B
+t1376198044
+s1067
+
+N/Users/yue/test/JapaneseBook1/JapaneseBook1/en.lproj/Credits.rtf
+c000000005206D83600000000000001B4
+t1376180278
+s436
+
+N/Users/yue/test/JapaneseBook1/JapaneseBook1/en.lproj/InfoPlist.strings
+c000000005206D836000000000000002D
+t1376180278
+s45
+
+N/Users/yue/test/JapaneseBook1/JapaneseBook1/main.m
+c000000005206D83600000000000000F0
+t1376180278
+s240
+
+N/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/AppDelegate.o
+t1376251010
+s82836
+
+N/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Book.o
+t1376251009
+s18244
+
+N/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Chapter.o
+t1376251009
+s15044
+
+N/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/JapaneseBook1.LinkFileList
+c000000005207EC7D0000000000000242
+t1376251005
+s578
+
+N/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Section.o
+t1376251009
+s12872
+
+N/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/main.o
+t1376251009
+s3560
+
+N/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app
+t1376251005
+s102
+
+N/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app.dSYM
+t2
+s0
+
+N/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Info.plist
+t1376251005
+s1428
+
+N/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook1
+t1376251010
+s43912
+
+N/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/PkgInfo
+t1376251005
+s8
+
+N/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1376251013
+s58889
+
+N/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Resources/Book.bundle
+t1376251011
+s816
+
+N/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Resources/en.lproj/Credits.rtf
+t1376251010
+s436
+
+N/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1376251010
+s92
+
+N/var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch.pch
+t1376251008
+s111068
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies24b746fd23b8b741^97025efd23b8b741^---0#1#1#--18"Check dependencies36"1C918FA3-68EC-43B4-8CCF-F8E4BDD028C9-
+
+CCompileC build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/AppDelegate.o /Users/yue/test/JapaneseBook1/JapaneseBook1/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397943808.922213
+e397943810.279570
+r1
+xCompileC
+xbuild/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/yue/test/JapaneseBook1/JapaneseBook1/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/AppDelegate.m
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/AppDelegate.h
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/Book.h
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/Chapter.h
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/Section.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/yue/test/JapaneseBook1/JapaneseBook1/AppDelegate.m212"[1mCompileC[0m build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/AppDelegate.o [1mJapaneseBook1/AppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf833ec0024b8b741^4f91470224b8b741^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/yue/test/JapaneseBook1/JapaneseBook1/AppDelegate.m0000000000000000^3273"[1mCompileC[0m build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/AppDelegate.o [1mJapaneseBook1/AppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yue/test/JapaneseBook1    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-generated-files.hmap -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-own-target-headers.hmap -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-all-target-headers.hmap -iquote /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-project-headers.hmap -I/Users/yue/test/JapaneseBook1/build/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/DerivedSources/x86_64 -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/DerivedSources -F/Users/yue/test/JapaneseBook1/build/Release -include /var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch -MMD -MT dependencies -MF /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/yue/test/JapaneseBook1/JapaneseBook1/AppDelegate.m -o /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/AppDelegate.o36"65145A13-5BB6-44F3-9211-92CFCB0DE675-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
+CCompileC build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Book.o /Users/yue/test/JapaneseBook1/JapaneseBook1/Book.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397943809.018901
+e397943809.122982
+r1
+xCompileC
+xbuild/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Book.o
+x/Users/yue/test/JapaneseBook1/JapaneseBook1/Book.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/Book.m
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/Book.h
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/Chapter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/yue/test/JapaneseBook1/JapaneseBook1/Book.m198"[1mCompileC[0m build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Book.o [1mJapaneseBook1/Book.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler39f2040124b8b741^8cb91f0124b8b741^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/yue/test/JapaneseBook1/JapaneseBook1/Book.m0000000000000000^3231"[1mCompileC[0m build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Book.o [1mJapaneseBook1/Book.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yue/test/JapaneseBook1    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-generated-files.hmap -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-own-target-headers.hmap -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-all-target-headers.hmap -iquote /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-project-headers.hmap -I/Users/yue/test/JapaneseBook1/build/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/DerivedSources/x86_64 -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/DerivedSources -F/Users/yue/test/JapaneseBook1/build/Release -include /var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch -MMD -MT dependencies -MF /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Book.d --serialize-diagnostics /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Book.dia -c /Users/yue/test/JapaneseBook1/JapaneseBook1/Book.m -o /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Book.o36"3AACB0D6-FAAD-4A52-9CA2-A3629A48B8C4-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
+CCompileC build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Chapter.o /Users/yue/test/JapaneseBook1/JapaneseBook1/Chapter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397943809.186226
+e397943809.305264
+r1
+xCompileC
+xbuild/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Chapter.o
+x/Users/yue/test/JapaneseBook1/JapaneseBook1/Chapter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/Chapter.m
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/Chapter.h
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/Section.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/yue/test/JapaneseBook1/JapaneseBook1/Chapter.m204"[1mCompileC[0m build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Chapter.o [1mJapaneseBook1/Chapter.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3bc82f0124b8b741^b9344e0124b8b741^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/yue/test/JapaneseBook1/JapaneseBook1/Chapter.m0000000000000000^3249"[1mCompileC[0m build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Chapter.o [1mJapaneseBook1/Chapter.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yue/test/JapaneseBook1    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-generated-files.hmap -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-own-target-headers.hmap -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-all-target-headers.hmap -iquote /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-project-headers.hmap -I/Users/yue/test/JapaneseBook1/build/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/DerivedSources/x86_64 -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/DerivedSources -F/Users/yue/test/JapaneseBook1/build/Release -include /var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch -MMD -MT dependencies -MF /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Chapter.d --serialize-diagnostics /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Chapter.dia -c /Users/yue/test/JapaneseBook1/JapaneseBook1/Chapter.m -o /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Chapter.o36"28A8751A-E426-4B0C-8074-2E4CA98E1AD2-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
+CCompileC build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Section.o /Users/yue/test/JapaneseBook1/JapaneseBook1/Section.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397943808.922847
+e397943809.018557
+r1
+xCompileC
+xbuild/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Section.o
+x/Users/yue/test/JapaneseBook1/JapaneseBook1/Section.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/Section.m
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/Section.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/yue/test/JapaneseBook1/JapaneseBook1/Section.m204"[1mCompileC[0m build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Section.o [1mJapaneseBook1/Section.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler185fec0024b8b741^6afa040124b8b741^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/yue/test/JapaneseBook1/JapaneseBook1/Section.m0000000000000000^3249"[1mCompileC[0m build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Section.o [1mJapaneseBook1/Section.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yue/test/JapaneseBook1    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-generated-files.hmap -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-own-target-headers.hmap -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-all-target-headers.hmap -iquote /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-project-headers.hmap -I/Users/yue/test/JapaneseBook1/build/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/DerivedSources/x86_64 -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/DerivedSources -F/Users/yue/test/JapaneseBook1/build/Release -include /var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch -MMD -MT dependencies -MF /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Section.d --serialize-diagnostics /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Section.dia -c /Users/yue/test/JapaneseBook1/JapaneseBook1/Section.m -o /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Section.o36"A2C81CB9-FD03-4192-9DE9-B0545733FE53-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
+CCompileC build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/main.o /Users/yue/test/JapaneseBook1/JapaneseBook1/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397943809.123344
+e397943809.185871
+r1
+xCompileC
+xbuild/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/main.o
+x/Users/yue/test/JapaneseBook1/JapaneseBook1/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/yue/test/JapaneseBook1/JapaneseBook1/main.m198"[1mCompileC[0m build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/main.o [1mJapaneseBook1/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc9af1f0124b8b741^39d02f0124b8b741^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/yue/test/JapaneseBook1/JapaneseBook1/main.m0000000000000000^3231"[1mCompileC[0m build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/main.o [1mJapaneseBook1/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yue/test/JapaneseBook1    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-generated-files.hmap -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-own-target-headers.hmap -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-all-target-headers.hmap -iquote /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-project-headers.hmap -I/Users/yue/test/JapaneseBook1/build/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/DerivedSources/x86_64 -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/DerivedSources -F/Users/yue/test/JapaneseBook1/build/Release -include /var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch -MMD -MT dependencies -MF /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/main.dia -c /Users/yue/test/JapaneseBook1/JapaneseBook1/main.m -o /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/main.o36"0E3D26BB-1A84-4AD5-8EF1-7C369541A805-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
+CCompileXIB /Users/yue/test/JapaneseBook1/JapaneseBook1/Base.lproj/MainMenu.xib
+s397943810.396354
+e397943813.083068
+r1
+xCompileXIB
+x/Users/yue/test/JapaneseBook1/JapaneseBook1/Base.lproj/MainMenu.xib
+o2013-08-11 12:56:52.375 ibtoold[1922:507] ERROR: Negative values for setRowHeight: not allowed (0.000)
+o2013-08-11 12:56:52.738 ibtoold[1922:507] ERROR: Negative values for setRowHeight: not allowed (0.000)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compiling /Users/yue/test/JapaneseBook1/JapaneseBook1/Base.lproj/MainMenu.xib64"[1mCompileXIB[0m [1mJapaneseBook1/Base.lproj/MainMenu.xib[0ma88a650224b8b741^7558150524b8b741^-206"2013-08-11 12:56:52.375 ibtoold[1922:507] ERROR: Negative values for setRowHeight: not allowed (0.000)2013-08-11 12:56:52.738 ibtoold[1922:507] ERROR: Negative values for setRowHeight: not allowed (0.000)-0#0#1#-19%DVTDocumentLocation2@74"file:///Users/yue/test/JapaneseBook1/JapaneseBook1/Base.lproj/MainMenu.xib0000000000000000^546"[1mCompileXIB[0m [1mJapaneseBook1/Base.lproj/MainMenu.xib[0m    cd /Users/yue/test/JapaneseBook1    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode5-DP3.app/Contents/Developer/usr/bin/..    /Applications/Xcode5-DP3.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.8 --output-format human-readable-text --compile /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Resources/Base.lproj/MainMenu.nib /Users/yue/test/JapaneseBook1/JapaneseBook1/Base.lproj/MainMenu.xib36"7BF92155-6361-4E56-93AA-42D8404C6026-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
+CCopyStringsFile /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Resources/en.lproj/InfoPlist.strings JapaneseBook1/en.lproj/InfoPlist.strings
+s397943810.390447
+e397943810.393166
+r1
+xCopyStringsFile
+x/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Resources/en.lproj/InfoPlist.strings
+xJapaneseBook1/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy JapaneseBook1/en.lproj/InfoPlist.strings142"[1mCopyStringsFile[0m build/Release/JapaneseBook1.app/Contents/Resources/en.lproj/InfoPlist.strings JapaneseBook1/en.lproj/InfoPlist.stringsd509640224b8b741^39d3640224b8b741^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/yue/test/JapaneseBook1/JapaneseBook1/en.lproj/InfoPlist.strings0000000000000000^404"[1mCopyStringsFile[0m build/Release/JapaneseBook1.app/Contents/Resources/en.lproj/InfoPlist.strings JapaneseBook1/en.lproj/InfoPlist.strings    cd /Users/yue/test/JapaneseBook1    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Resources/en.lproj -- JapaneseBook1/en.lproj/InfoPlist.strings36"99CC7E43-5F4F-403A-9521-11184755B47B-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
+CCpResource JapaneseBook1/Book.bundle build/Release/JapaneseBook1.app/Contents/Resources/Book.bundle
+s397943810.391098
+e397943811.582252
+r1
+xCpResource
+xJapaneseBook1/Book.bundle
+xbuild/Release/JapaneseBook1.app/Contents/Resources/Book.bundle
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Release/JapaneseBook1.app/Contents/Resources/Book.bundle107"[1mCpResource[0m JapaneseBook1/Book.bundle build/Release/JapaneseBook1.app/Contents/Resources/Book.bundledd45640224b8b741^e61f950324b8b741^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Resources/Book.bundle0034986adcffdf42^525"[1mCpResource[0m JapaneseBook1/Book.bundle build/Release/JapaneseBook1.app/Contents/Resources/Book.bundle    cd /Users/yue/test/JapaneseBook1    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/yue/test/JapaneseBook1/JapaneseBook1/Book.bundle /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Resources36"0348C445-AC09-4EC1-833A-BCF97D33D075-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
+CCpResource JapaneseBook1/en.lproj/Credits.rtf build/Release/JapaneseBook1.app/Contents/Resources/en.lproj/Credits.rtf
+s397943810.393460
+e397943810.396061
+r1
+xCpResource
+xJapaneseBook1/en.lproj/Credits.rtf
+xbuild/Release/JapaneseBook1.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy build/Release/JapaneseBook1.app/Contents/Resources/en.lproj/Credits.rtf125"[1mCpResource[0m JapaneseBook1/en.lproj/Credits.rtf build/Release/JapaneseBook1.app/Contents/Resources/en.lproj/Credits.rtfb8c9640224b8b741^6895650224b8b741^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Resources/en.lproj/Credits.rtf0034986adcffdf42^561"[1mCpResource[0m JapaneseBook1/en.lproj/Credits.rtf build/Release/JapaneseBook1.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/yue/test/JapaneseBook1    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/yue/test/JapaneseBook1/JapaneseBook1/en.lproj/Credits.rtf /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Resources/en.lproj36"5F70D015-91BD-4D9A-A373-4F8BA6C9417F-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
+CGenerateDSYMFile /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app.dSYM /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook1
+s397943810.369593
+e397943810.389724
+r1
+xGenerateDSYMFile
+x/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app.dSYM
+x/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook1
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Generate /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app.dSYM130"[1mGenerateDSYMFile[0m [1mbuild/Release/JapaneseBook1.app.dSYM[0m build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook14fad5e0224b8b741^bccd630224b8b741^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app.dSYM0034986adcffdf42^434"[1mGenerateDSYMFile[0m [1mbuild/Release/JapaneseBook1.app.dSYM[0m build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook1    cd /Users/yue/test/JapaneseBook1    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook1 -o /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app.dSYM36"3EEFAF51-7C91-4AA0-A44A-7B6F2E1E1A9B-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
+CLd /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook1 normal x86_64
+s397943810.281278
+e397943810.368470
+r1
+xLd
+x/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook1
+xnormal
+xx86_64
+d/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/JapaneseBook1.LinkFileList
+d/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Section.o
+d/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Book.o
+d/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/main.o
+d/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/Chapter.o
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOSurface.framework/IOSurface
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/CoreImage.framework/Versions/A/CoreImage
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/ScalableUserInterface.framework/Versions/A/ScalableUserInterface
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+d/Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AVFoundation.framework/Versions/A/Resources/libAVFAudio.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Link /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook185"[1mLd[0m build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook1 normal x86_644f20480224b8b741^2a555e0224b8b741^---0#0#1#--971"[1mLd[0m build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook1 normal x86_64    cd /Users/yue/test/JapaneseBook1    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/yue/test/JapaneseBook1/build/Release -F/Users/yue/test/JapaneseBook1/build/Release -filelist /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/JapaneseBook1.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/Objects-normal/x86_64/JapaneseBook1_dependency_info.dat -o /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/MacOS/JapaneseBook136"746CE51B-B707-4D5A-9E09-15742B081116-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
+CProcessInfoPlistFile /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Info.plist /Users/yue/test/JapaneseBook1/JapaneseBook1/JapaneseBook1-Info.plist
+s397943805.372643
+e397943805.375062
+r1
+xProcessInfoPlistFile
+x/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Info.plist
+x/Users/yue/test/JapaneseBook1/JapaneseBook1/JapaneseBook1-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Process /Users/yue/test/JapaneseBook1/JapaneseBook1/JapaneseBook1-Info.plist127"[1mProcessInfoPlistFile[0m build/Release/JapaneseBook1.app/Contents/Info.plist [1mJapaneseBook1/JapaneseBook1-Info.plist[0m9c8b5ffd23b8b741^640460fd23b8b741^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/yue/test/JapaneseBook1/JapaneseBook1/JapaneseBook1-Info.plist0000000000000000^477"[1mProcessInfoPlistFile[0m build/Release/JapaneseBook1.app/Contents/Info.plist [1mJapaneseBook1/JapaneseBook1-Info.plist[0m    cd /Users/yue/test/JapaneseBook1    builtin-infoPlistUtility /Users/yue/test/JapaneseBook1/JapaneseBook1/JapaneseBook1-Info.plist -genpkginfo /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app/Contents/Info.plist36"1C669E02-7A66-4347-82E0-544437C25D56-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
+CProcessPCH /var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch.pch JapaneseBook1/JapaneseBook1-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397943805.376206
+e397943808.920876
+r1
+xProcessPCH
+x/var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch.pch
+xJapaneseBook1/JapaneseBook1-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yue/test/JapaneseBook1/JapaneseBook1/JapaneseBook1-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile JapaneseBook1/JapaneseBook1-Prefix.pch324"[1mProcessPCH[0m /var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch.pch JapaneseBook1/JapaneseBook1-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbd7360fd23b8b741^88beeb0024b8b741^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/yue/test/JapaneseBook1/JapaneseBook1/JapaneseBook1-Prefix.pch0000000000000000^3428"[1mProcessPCH[0m /var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch.pch JapaneseBook1/JapaneseBook1-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yue/test/JapaneseBook1    setenv LANG en_US.US-ASCII    /Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5-DP3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-generated-files.hmap -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-own-target-headers.hmap -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-all-target-headers.hmap -iquote /Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/JapaneseBook1-project-headers.hmap -I/Users/yue/test/JapaneseBook1/build/Release/include -I/Applications/Xcode5-DP3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/DerivedSources/x86_64 -I/Users/yue/test/JapaneseBook1/build/JapaneseBook1.build/Release/JapaneseBook1.build/DerivedSources -F/Users/yue/test/JapaneseBook1/build/Release --serialize-diagnostics /var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch.d -c /Users/yue/test/JapaneseBook1/JapaneseBook1/JapaneseBook1-Prefix.pch -o /var/folders/0j/d_pq3cxj4yb0gsx3p5zg8xd40000gn/C/com.apple.DeveloperTools/5.0-5A11344j/Xcode/SharedPrecompiledHeaders/JapaneseBook1-Prefix-cvealtkuhwmexmdnscqsniefswvd/JapaneseBook1-Prefix.pch.pch36"BD6C3FC3-946A-4B5C-9FB4-E25B6C9B39CB-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
+CTouch /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app
+s397943813.084276
+e397943813.091586
+r1
+xTouch
+x/Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Touch /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app45"[1mTouch[0m build/Release/JapaneseBook1.app5da3150524b8b741^f27b170524b8b741^---0#0#1#--167"[1mTouch[0m build/Release/JapaneseBook1.app    cd /Users/yue/test/JapaneseBook1    /usr/bin/touch -c /Users/yue/test/JapaneseBook1/build/Release/JapaneseBook1.app36"AF5FEF2F-708C-4BD7-AC8B-D4E669EFA4FB-
+b1A96C2F8-B262-4A1C-BF7A-F097DEDEE6CA
+
